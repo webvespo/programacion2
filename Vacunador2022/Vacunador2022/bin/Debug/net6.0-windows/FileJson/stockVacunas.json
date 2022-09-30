@@ -1,0 +1,44 @@
+[
+  {
+    "Id": "1",
+    "Name": "Convidecia",
+    "Stock": 9997,
+    "Aplic": 2
+  },
+  {
+    "Id": "3",
+    "Name": "Covishield",
+    "Stock": 9996,
+    "Aplic": 3
+  },
+  {
+    "Id": "0",
+    "Name": "Comirnaty",
+    "Stock": 9997,
+    "Aplic": 2
+  },
+  {
+    "Id": "6",
+    "Name": "Moderna",
+    "Stock": 9997,
+    "Aplic": 2
+  },
+  {
+    "Id": "5",
+    "Name": "AstraZeneca",
+    "Stock": 9997,
+    "Aplic": 2
+  },
+  {
+    "Id": "2",
+    "Name": "Sputnic",
+    "Stock": 9994,
+    "Aplic": 5
+  },
+  {
+    "Id": "4",
+    "Name": "Sinopharm",
+    "Stock": 9996,
+    "Aplic": 3
+  }
+]

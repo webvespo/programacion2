@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "54wQn8Oyreo8Se1Wmf1UABd1VitRfDztREdrnzfRm/IVV4e2aqSiY9kwjOnQpT9IYOSzUKam0uZ1U6p15dny2Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\source\\repos\\Vacunador2022\\Vacunador2022\\Vacunador2022.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

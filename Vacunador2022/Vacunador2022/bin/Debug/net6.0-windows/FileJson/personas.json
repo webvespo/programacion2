@@ -1,0 +1,217 @@
+[
+
+  {
+    "Dni": "484848",
+    "APELLIDO": "Varlanque",
+    "NOMBRES": "sonia",
+    "Vacuna": [
+      {
+        "Marca": "Fecha Alta --> ",
+        "Dosis": "2021-12-16T00:00:00-03:00"
+      }
+    ]
+  },
+  {
+    "Dni": "45",
+    "APELLIDO": "Nuñez",
+    "NOMBRES": "Ramon",
+    "Vacuna": [
+      {
+        "Marca": "Fecha Alta --> ",
+        "Dosis": "2021-12-17T00:00:00-03:00"
+      }
+    ]
+  },
+  {
+    "Dni": "46520759",
+    "APELLIDO": "Randazo",
+    "NOMBRES": "Esteban",
+    "Vacuna": [
+      {
+        "Marca": "Fecha Alta --> ",
+        "Dosis": "2021-12-17T00:00:00-03:00"
+      }
+    ]
+  },
+  {
+    "Dni": "13011327",
+    "APELLIDO": "bello",
+    "NOMBRES": "bello",
+    "Vacuna": [
+      {
+        "Marca": "Fecha Alta --> ",
+        "Dosis": "2021-12-17T00:00:00-03:00"
+      },
+      {
+        "Marca": "Covishield",
+        "Dosis": "2021-12-17T00:00:00-03:00"
+      }
+    ]
+  },
+  {
+    "Dni": "15236589",
+    "APELLIDO": "marin",
+    "NOMBRES": "Augusto Sergio",
+    "Vacuna": [
+      {
+        "Marca": "Fecha Alta --> ",
+        "Dosis": "2021-12-17T00:00:00-03:00"
+      }
+    ]
+  },
+  {
+    "Dni": "45454545",
+    "APELLIDO": "Quien sabe",
+    "NOMBRES": "el nombre",
+    "Vacuna": [
+      {
+        "Marca": "Fecha Alta --> ",
+        "Dosis": "2021-12-17T00:00:00-03:00"
+      }
+    ]
+  },
+  {
+    "Dni": "22",
+    "APELLIDO": "Peralta",
+    "NOMBRES": "Pedro",
+    "Vacuna": [
+      {
+        "Marca": "Fecha Alta --> ",
+        "Dosis": "2021-12-16T00:00:00-03:00"
+      },
+      {
+        "Marca": "AstraZeneca",
+        "Dosis": "2021-12-16T00:00:00-03:00"
+      },
+      {
+        "Marca": "Sinopharm",
+        "Dosis": "2021-12-16T00:00:00-03:00"
+      },
+      {
+        "Marca": "Moderna",
+        "Dosis": "2021-12-16T00:00:00-03:00"
+      },
+      {
+        "Marca": "Covishield",
+        "Dosis": "2021-12-16T00:00:00-03:00"
+      },
+      {
+        "Marca": "Sputnic",
+        "Dosis": "2021-12-16T00:00:00-03:00"
+      },
+      {
+        "Marca": "Sputnic",
+        "Dosis": "2021-12-17T00:00:00-03:00"
+      },
+      {
+        "Marca": "Covishield",
+        "Dosis": "2021-12-17T00:00:00-03:00"
+      },
+      {
+        "Marca": "Sinopharm",
+        "Dosis": "2021-12-17T00:00:00-03:00"
+      }
+    ]
+  },
+  {
+    "Dni": "22222222",
+    "APELLIDO": "uno",
+    "NOMBRES": "dos",
+    "Vacuna": [
+      {
+        "Marca": "Fecha Alta --> ",
+        "Dosis": "2022-09-29T00:00:00-03:00"
+      },
+      {
+        "Marca": "Comirnaty",
+        "Dosis": "2022-09-29T00:00:00-03:00"
+      },
+      {
+        "Marca": "Moderna",
+        "Dosis": "2022-09-29T00:00:00-03:00"
+      },
+      {
+        "Marca": "AstraZeneca",
+        "Dosis": "2022-09-29T00:00:00-03:00"
+      },
+      {
+        "Marca": "Sputnic",
+        "Dosis": "2022-09-29T00:00:00-03:00"
+      },
+      {
+        "Marca": "Sputnic",
+        "Dosis": "2022-09-29T00:00:00-03:00"
+      }
+    ]
+  },
+  {
+    "Dni": "25235235",
+    "APELLIDO": "ape",
+    "NOMBRES": "nom",
+    "Vacuna": [
+      {
+        "Marca": "Fecha Alta --> ",
+        "Dosis": "2022-09-29T00:00:00-03:00"
+      }
+    ]
+  },
+  {
+    "Dni": "2233344",
+    "APELLIDO": "vdd",
+    "NOMBRES": "vdd",
+    "Vacuna": [
+      {
+        "Marca": "Fecha Alta --> ",
+        "Dosis": "2022-09-30T00:00:00-03:00"
+      }
+    ]
+  },
+  {
+    "Dni": "256",
+    "APELLIDO": "Peralta",
+    "NOMBRES": "Pedro",
+    "Vacuna": [
+      {
+        "Marca": "Fecha Alta --> ",
+        "Dosis": "2022-09-30T00:00:00-03:00"
+      }
+    ]
+  },
+  {
+    "Dni": "34",
+    "APELLIDO": "ff",
+    "NOMBRES": "gg",
+    "Vacuna": [
+      {
+        "Marca": "Fecha Alta --> ",
+        "Dosis": "2022-09-30T00:00:00-03:00"
+      }
+    ]
+  },
+  {
+    "Dni": "23",
+    "APELLIDO": "ff",
+    "NOMBRES": "ff",
+    "Vacuna": [
+      {
+        "Marca": "Fecha Alta --> ",
+        "Dosis": "2022-09-30T00:00:00-03:00"
+      }
+    ]
+  },
+  {
+    "Dni": "78",
+    "APELLIDO": "Ronconi",
+    "NOMBRES": "Melina",
+    "Vacuna": [
+      {
+        "Marca": "Fecha Alta --> ",
+        "Dosis": "2021-12-16T00:00:00-03:00"
+      },
+      {
+        "Marca": "Sinopharm",
+        "Dosis": "2022-09-30T00:00:00-03:00"
+      }
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+	{
+	"id":"1",
+	"nombre":"Sputnic"
+	},
+	{
+	"id":"2",
+	"nombre":"Covishield"
+	},
+	{
+	"id":"3",
+	"nombre":"Sinopharm"
+	},
+	{
+	"id":"4",
+	"nombre":"AstraZeneca"
+	},
+	{
+	"id":"5",
+	"nombre":"Moderna"
+	},
+	{
+	"id":"6",
+	"nombre":"Convidecia"
+	},
+	{
+	"id":"7",
+	"nombre":"Comirnaty"
+	}
+]
